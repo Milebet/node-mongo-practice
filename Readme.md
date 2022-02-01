@@ -1,0 +1,1 @@
+Simple practice with node and Mongo DB
