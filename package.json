@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/Milebet/node-mongo-practice/issues"
   },
-  "homepage": "https://github.com/Milebet/node-mongo-practice#readme"
+  "homepage": "https://github.com/Milebet/node-mongo-practice#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "morgan": "^1.10.0"
+  }
 }
